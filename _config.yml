@@ -1,0 +1,14 @@
+layout_spectrum: 0.6200463571585715
+typography_spectrum: 0.548378904350102
+color:
+  brandStrength: 0.2881963944528252
+  lightness: 0.26613561320118606
+  saturation: 0.37687674979679286
+  rhythmicContrast: 0.8873655672650784
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: AgnesLondon
